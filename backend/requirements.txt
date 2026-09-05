@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+cryptography
+pydantic
+pydantic-settings
+pytest
+requests
+xgboost
+scikit-learn
+pandas
