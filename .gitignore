@@ -31,3 +31,26 @@ htmlcov/
 # Secrets / local certs
 *.pem
 *.key
+
+node_modules/
+*.pyc
+.next/
+dist/
+build/
+.cache/
+.turbopack/
+*.class
+.DS_Store
+Thumbs.db
+*.mp4
+*.MP4
+*.avi
+*.mkv
+*.mov
+*.iso
+*.tar.gz
+*.zip
+*.exe
+*.dll
+*.pkl
+/mobile/build/cache.dill.track.dill
